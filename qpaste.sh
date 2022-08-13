@@ -1,6 +1,6 @@
 title='QPaste - http://github.com/mrousavy/QPastebin'
 expiration='1H' # N = Never | 10M = 10 Minutes | 1H = 1 Hour ..
-token='' # Pastebin API Token (Login with account and get token on pastebin.com/api)
+token='Ox1HWn0u6T8VT2XYeeZNZHAgKJzBN8YS' # Pastebin API Token (Login with account and get token on pastebin.com/api)
 
 if [ $# -eq 0 ]
 then
